@@ -1,5 +1,5 @@
 # GameUnitySphereRunner
-simple game consists from 4 levels ,the player is a ball which have to avoid collide or fall from ground as it happened level will restart it little fun and the beginning of much more to come.
+simple game consists from 4 levels ,the player is a ball which have to avoid collide or fall from ground as it happened level will restart controls of the game is w for forward move a for left move s to brake/stop d for right move ,it little fun and the beginning of much more to come.
 #1
 <div align="center">
 
